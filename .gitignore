@@ -1,0 +1,9 @@
+*.Rproj
+.RData
+.Rhistory
+Intermediate outputs/
+Outputs/
+Workspace/
+Tools/
+.Rproj.user
+.RDataTmp
